@@ -44,8 +44,7 @@ Save the trained model, visualize predictions, and integrate it into an applicat
 
 ## PROGRAM
 
-```
-python
+```python
 import torch
 import torch.nn as nn
 import torch.optim as optim
