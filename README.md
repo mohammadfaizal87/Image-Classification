@@ -43,7 +43,7 @@ STEP 7: Model Deployment & Visualization
 Save the trained model, visualize predictions, and integrate it into an application if needed.
 
 ## PROGRAM
-
+python
 ```
 import torch
 import torch.nn as nn
@@ -243,17 +243,20 @@ predict_image(model, image_index=80, dataset=test_dataset)
 
 ### Confusion Matrix
 
-<img width="1227" height="685" alt="Screenshot 2026-02-11 161851" src="https://github.com/user-attachments/assets/f60baa2f-aa98-4c32-9e10-3a5e5169ab9a" />
+<img width="923" height="676" alt="image" src="https://github.com/user-attachments/assets/76bad460-db95-4ad8-9c8b-a455d1c4622b" />
+
 
 
 ### Classification Report
 
-<img width="731" height="409" alt="Screenshot 2026-02-11 161904" src="https://github.com/user-attachments/assets/a8c579a5-4185-45f7-ab9e-90b8c29b55fd" />
+<img width="656" height="421" alt="image" src="https://github.com/user-attachments/assets/e068a510-d9b0-44c6-a1d0-3fea16dc3db1" />
+
 
 
 
 ### New Sample Data Prediction
-<img width="742" height="567" alt="Screenshot 2026-02-11 161935" src="https://github.com/user-attachments/assets/bf0aafb1-f224-4c61-9c40-bc1e041d407a" />
+<img width="610" height="569" alt="image" src="https://github.com/user-attachments/assets/bfabf510-f1cc-4d29-a05b-fdb5fd3459d3" />
+
 
 
 
