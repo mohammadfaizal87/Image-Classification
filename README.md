@@ -43,8 +43,9 @@ STEP 7: Model Deployment & Visualization
 Save the trained model, visualize predictions, and integrate it into an application if needed.
 
 ## PROGRAM
-python
+
 ```
+python
 import torch
 import torch.nn as nn
 import torch.optim as optim
